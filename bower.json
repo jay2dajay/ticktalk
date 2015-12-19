@@ -1,0 +1,26 @@
+{
+  "name": "ticktalk",
+  "description": "ISYS 475 Project",
+  "main": "server.js",
+  "authors": [
+    "Judy Huynh",
+    "Kevin Ng",
+    "Simone Ozzello",
+    "Jonathan Chiu",
+    "Danh Nguyen"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-route": "~1.4.8",
+    "angular-bootstrap": "~0.14.3",
+    "angular-animate": "~1.4.8",
+    "angular-socket-io": "~0.7.0"
+  },
+  "install": {
+    "path": "client/libs"
+  }
+}

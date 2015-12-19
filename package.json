@@ -1,0 +1,27 @@
+{
+  "name": "ticktalk",
+  "version": "0.0.1",
+  "description": "ISYS 475 Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay2dajay/ticktalk.git"
+  },
+  "author": "Judy Huynh, Kevin Ng, Simone Ozzello, Jonathan Chiu, Danh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay2dajay/ticktalk/issues"
+  },
+  "homepage": "https://github.com/jay2dajay/ticktalk#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.3",
+    "nodemon": "^1.8.1",
+    "socket.io": "^1.3.5"
+  }
+}
